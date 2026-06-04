@@ -1,0 +1,83 @@
+MIN: 1.45
+MAX: 1.66
+AVRG: 1.55
+DEFAULT VALUES RECORDED, READY FOR CONTRACTION?
+First Point:1.77
+Second Point:1.90
+Third Point:1.62
+Fourth Point:1.53
+Fifth Point:1.61
+Sixth Point:1.67
+Seventh Point:1.58
+Eighth Point:1.48
+Ninth Point:1.48
+Tenth Point:1.60
+
+----------------------------------
+
+MIN: 1.45
+MAX: 1.66
+AVRG: 1.55
+DEFAULT VALUES RECORDED, READY FOR CONTRACTION?
+First Point:1.80
+Second Point:1.69
+Third Point:1.68
+Fourth Point:1.56
+Fifth Point:1.64
+Sixth Point:1.66
+Seventh Point:1.56
+Eighth Point:1.47
+Ninth Point:1.49
+Tenth Point:1.61
+
+----------------------------------
+
+MIN: 1.45
+MAX: 1.65
+AVRG: 1.55
+DEFAULT VALUES RECORDED, READY FOR CONTRACTION?
+First Point:1.75
+Second Point:1.62
+Third Point:1.52
+Fourth Point:1.54
+Fifth Point:1.59
+Sixth Point:1.66
+Seventh Point:1.57
+Eighth Point:1.49
+Ninth Point:1.48
+Tenth Point:1.58
+
+----------------------------------
+
+MIN: 1.45
+MAX: 1.65
+AVRG: 1.55
+DEFAULT VALUES RECORDED, READY FOR CONTRACTION?
+First Point:1.76
+Second Point:1.71
+Third Point:1.68
+Fourth Point:1.58
+Fifth Point:1.55
+Sixth Point:1.62
+Seventh Point:1.60
+Eighth Point:1.51
+Ninth Point:1.47
+Tenth Point:1.55
+
+----------------------------------
+
+MIN: 1.46
+MAX: 1.64
+AVRG: 1.55
+DEFAULT VALUES RECORDED, READY FOR CONTRACTION?
+First Point:1.75
+Second Point:1.74
+Third Point:1.58
+Fourth Point:1.56
+Fifth Point:1.56
+Sixth Point:1.63
+Seventh Point:1.59
+Eighth Point:1.50
+Ninth Point:1.46
+Tenth Point:1.56
+
