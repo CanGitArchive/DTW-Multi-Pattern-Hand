@@ -33,15 +33,9 @@
   int backwardButtonPin = 4;    
   int calibrationButtonPin = 3;  
 
-  ///SD CARD
-  //23 MOSI
-  //19 MISO
-  //18 SCK
-  //5 SS/CS
+  // SD CARD pins: 23 MOSI, 19 MISO, 18 SCK, 5 SS/CS
 
-  ///OLED
-  //22 SCL
-  //21 SDA
+  // OLED pins: 22 SCL, 21 SDA
 
   bool setupDisplayFirstTime = true;
   bool waitingCalibrationTimer = false;
